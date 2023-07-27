@@ -1,0 +1,6 @@
+En esta carpeta encontraremos dos archivos:
+
+  - Dashboard Spotify: Archivo de Power BI.
+  - cleaned_dataset.csv : Datos utilizados.
+
+En el dashboard lo que hacemos es analizar los datos brindados por el archivo cleaned_dataset.csv, el cual, es un dataset que contiene datos de Spotify.
